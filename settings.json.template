@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": "",
+
+    "owner": "",
+    "admins": [],
+    "roles": [],
+    "channels": [],
+
+    "blacklist": []
+}
